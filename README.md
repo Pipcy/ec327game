@@ -103,10 +103,16 @@ MainActivity: Walk around to one of four spots in the room to trigger different 
 [Where there any specific challenges during the implementation of this project that deserve note.  Feel free to include ideas that you tried but failed to work, in terse fashion.]
 
 ### Supporting material
-[Any videos, slides, etc. that could help someone understand your project.]
+Follow [this Google Doc](https://docs.google.com/document/d/1GzOz6lCIO9-j1esVCNZ64J18vl1_PMV1DgRqveJSo84/edit?usp=sharing) for a detailed cloning/downloading instructions!
 
 ### Release
-[Are you comfortable with having this project visible to the broader public?  This would allow you, for example, to put it on a resume or showcase to potential employers.  _All_ group members must agree to making the project public, or else it will remain private.]
+We are comfortable making this public. 
+
+
+### High Level Documentation for Testing
+Unit tests were implemented for all applicable functions, especially those that format data to be displayed onto the screen, and those accessing and processing data through APIs. These were done through methods such as mocking. 
+
+Interface and system tests were implemented manually through user input and demos. For example, we know that a function works when its intended result shows up on the screen.
 
 ###
 

@@ -1,3 +1,11 @@
+// HIGH LEVEL DOCUMENTATION FOR TESTS
+
+/* 
+Unit tests were implemented for all applicable functions, especially those that format data to be displayed onto the screen, and those accessing and processing data through APIs. These were done through methods such as mocking. 
+
+Interface and system tests were implemented manually through user input and demos. For example, we know that a function works when its intended result shows up on the screen.
+/*
+
 package com.example.game2d;
 
 import org.junit.Assert;
